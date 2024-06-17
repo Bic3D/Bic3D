@@ -1,6 +1,6 @@
 - Hi! I’m Bic
 
-I love programmation and mechanical keyboards.
+I enjoy computers.
 
 Don't judge the code please
 
