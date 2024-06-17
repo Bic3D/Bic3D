@@ -2,7 +2,7 @@
 
 I love programmation and mechanical keyboards.
 
-Be careful when you look at my code because it can hurt your eyes
+Don't judge the code please
 
 <!---
 Bic3D/Bic3D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
